@@ -1,3 +1,8 @@
+/**
+ * @param {number} number
+ * @return {object} array of prime factors
+ */
+
 function primeFactors(number) {
     primeFactorsArr = [];
 
